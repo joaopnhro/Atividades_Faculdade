@@ -1,0 +1,7 @@
+n = int(input())
+
+while n+1 > 0:
+    print(n)
+    n -= 1
+    
+print("Fim da contagem regressiva!")
